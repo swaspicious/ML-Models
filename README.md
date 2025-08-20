@@ -1,2 +1,2 @@
 # ML-Models
-building and implementing ML models from scratch in python.
+Building and implementing ML models from scratch in python with proper documentation.
